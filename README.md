@@ -9,8 +9,8 @@ Place: Deep Learning Indaba 2025 Rwanda, Kigali  (Deep Learning Indaba Rwanda, K
 Room: Kivu Tents
 
 
-![ DLIx Poster](docs/Picture.jpg)
-![Dream Team](docs/picture2.png)
+![ DLIx Poster](docs/schedule.jpg)
+![Dream Team](docs/Organiser_Photo.png)
 
 ## Table of Contents
 
